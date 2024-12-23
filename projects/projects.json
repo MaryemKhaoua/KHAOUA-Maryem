@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Evento",
+    "desc": "Web application for event management with user registration, booking, and ticket generation.",
+    "image": "evento",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/MaryemKhaoua/Evento"
+    }
+  },
+  {
+    "name": "YouSave",
+    "desc": "Web and mobile application for blood donation, featuring donor registration and administrative back-office.",
+    "image": "yousave",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/MaryemKhaoua/YouSave"
+    }
+  },
+  {
+    "name": "Citronix",
+    "desc": "Farm management application for tracking seasonal harvests, managing sales, and calculating revenues.",
+    "image": "citronix",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/MaryemKhaoua/Citronix"
+    }
+  },
+  {
+    "name": "eBankify",
+    "desc": "Mobile app for bank account management with modular RESTful APIs for transactions and user management.",
+    "image": "ebankify",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/MaryemKhaoua/eBankify"
+    }
+  },
+  {
+    "name": "Hotel-Management",
+    "desc": "Hotel reservation system with room management, pricing, and statistics.",
+    "image": "hotel-management",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/MaryemKhaoua/Hotel-Management"
+    }
+  },
+  {
+    "name": "YouTask",
+    "desc": "Task management application with CRUD functionalities for user and task management.",
+    "image": "youtask",
+    "category": "web",
+    "links": {
+      "code": "https://github.com/MaryemKhaoua/YouTask"
+    }
+  }
+]

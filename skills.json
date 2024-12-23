@@ -1,0 +1,82 @@
+[
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Spring Boot",
+        "icon": "https://img.icons8.com/color/48/000000/spring-logo.png"
+    },
+    {
+        "name": "Angular",
+        "icon": "https://img.icons8.com/color/48/000000/angularjs.png"
+    },
+    {
+        "name": "PHP",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "Laravel",
+        "icon": "https://img.icons8.com/fluency/48/000000/laravel.png"
+    },
+    {
+        "name": "Vue.js",
+        "icon": "https://img.icons8.com/color/48/000000/vue-js.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/48/000000/jenkins.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "TailwindCSS",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/000000/figma.png"
+    },
+    {
+        "name": "Jira",
+        "icon": "https://img.icons8.com/color/48/000000/jira.png"
+    },
+    {
+        "name": "Notion",
+        "icon": "https://img.icons8.com/color/48/000000/notion.png"
+    }
+]
